@@ -1,0 +1,8 @@
+{
+  "name": "typescript-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TheBrockstar/typescript-practice.git",
+  "author": "Brock Maraee Rohloff <00AgentB@gmail.com>",
+  "license": "MIT"
+}
