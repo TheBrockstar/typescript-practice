@@ -2,7 +2,7 @@ import * as express from "express";
 import * as bodyParser from "body-parser";
 import { Request, Response } from "express";
 
-let list: any[] = [
+let list: { id: number, name: string, age: number }[] = [
   {
   id: 0,
   name: "Brock",
